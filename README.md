@@ -49,27 +49,28 @@ I'm a Full Stack Developer passionate about building web applications and explor
 
 ## 🔭 Current Project
 **Full Stack AI Learning Management System**
-- An innovative learning platform leveraging AI technologies
-- Built with modern web technologies
-- Focus on user experience and efficient learning management
+- An **innovative learning platform** leveraging **AI technologies**  
+- Built with **modern web technologies**  
+- Focus on **user experience** and **efficient learning management**  
 
 ---
 
 ## 🌱 I'm currently learning
-- Proficient in building scalable applications using Node.js and React.
-- Exploring advanced integration techniques with AI APIs to enhance application functionality.
-- Developing dynamic front-end interfaces with React and seamless back-end APIs with Node.js.
-- Focusing on combining AI-driven solutions with modern web development frameworks.
-- Leveraging AI APIs to create intelligent, user-centric applications.
-- Passionate about learning cutting-edge technologies in web development and artificial intelligence.
+- Proficient in building **scalable applications** using **Node.js** and **React**.  
+- Exploring **advanced integration techniques** with **AI APIs** to enhance application functionality.  
+- Developing **dynamic front-end interfaces** with **React** and seamless **back-end APIs** with **Node.js**.  
+- Focusing on combining **AI-driven solutions** with **modern web development frameworks**.  
+- Leveraging **AI APIs** to create **intelligent, user-centric applications**.  
+- Passionate about learning **cutting-edge technologies** in **web development** and **artificial intelligence**.  
 
 ---
 
 ## 🌟 Searching for Opportunities  
 **Full Stack Development | Web Development | Software Development Engineer (SDE)**  
-- Seeking opportunities to build scalable and user-focused web applications.  
-- Passionate about solving real-world problems with modern technologies.  
-- Open to roles that leverage AI integration and advanced development practices.  
+- Seeking opportunities to build **scalable** and **user-focused web applications**.  
+- Passionate about solving **real-world problems** with **modern technologies**.  
+- Open to roles that leverage **AI integration** and **advanced development practices**.  
+
 ---
 
 ## 📫 How to reach me
